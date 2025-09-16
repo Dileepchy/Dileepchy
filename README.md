@@ -1,9 +1,8 @@
 # Hi, I'm Dileep 👋
 
-💻 Web Developer | Aspiring AI/ML Engineer (Python)  
-📍 Kathmandu, Nepal  
-🔗 [LinkedIn](https://www.linkedin.com/in/dileep-chaudhary/) | ✉️ dileepchau3@gmail.com  
+💻 Web Developer | Aspiring AI/ML Engineer (Python)
 
+    
 ---
 
 ## 🚀 About Me  
@@ -13,10 +12,24 @@ Currently targeting **Full-Stack Developer** and **Software Engineering (Python)
 - 🌱 Currently exploring **AI/ML** and advanced **Python frameworks**  
 - 🤝 Open to collaborating on **full-stack web apps, APIs, or cloud projects**  
 - ⚡ Fun fact: I enjoy tackling complex debugging tasks (yes, really!)  
+ 
+<a href="https://www.linkedin.com/in/dileep-chaudhary/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
 
----
+<a href="mailto:dileepchau3@gmail.com" target="_blank">
+ <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+  
+<a href="https://www.instagram.com/dileepchaudharyyi/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
 
-## 🛠️ Tech Stack  
+  ---
+
+## 🛠️ Skills Stack  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,js,nextjs,nodejs,postgres,mysql,mongodb,aws,docker,c,bootstrap,react,html,css,django,express,github,git,ubuntu" />
+  </a>
+</p>
 
 **Languages:** Python, JavaScript, PHP  
 **Frameworks & Libraries:** Django, Flask, FastAPI, Express.js, Next.js, Laravel, React.js, Node.js, NumPy, Pandas, Matplotlib  
@@ -51,6 +64,8 @@ E-commerce platform for fruits & vegetables.
 ---
 
 ## 📈 GitHub Stats  
+
+![Dileep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dileep&show_icons=true&theme=radical)
 
 
 ⭐️ *"Passionate about learning, building, and collaborating to create impactful software."*  
