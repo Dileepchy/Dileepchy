@@ -32,7 +32,7 @@ Currently targeting **Full-Stack Developer** and **Software Engineering (Python)
 </p>
 
 **Languages:** Python, JavaScript, PHP  
-**Frameworks & Libraries:** Django, Flask, FastAPI, Express.js, Next.js, Laravel, React.js, Node.js, NumPy, Pandas, Matplotlib  
+**Frameworks & Libraries:** Django, Flask, FastAPI, Express.js, Next.js, Laravel, React.js, Node.js, NumPy, Pandas, Matplotlib, PyTorch, and TensorFlow
 **Databases:** MySQL, MongoDB  
 **Tools & Cloud:** AWS (S3, Lambda), Docker, Git  
 **Core Skills:** REST APIs, Microservices, SDLC, OOP, Debugging, Scalability  
